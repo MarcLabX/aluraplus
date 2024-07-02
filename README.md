@@ -5,7 +5,7 @@
 
 Criando uma página para a plataforma Desktop da Alura+ usando os conceitos do curso de HTML e CSS na Alura.
 
-OBS: Isto é apenas um protótipo para <strong>Desktop</strong>, em versões futuras vou tornar a página <strong>responsiva</strong> para <em>dispositivos móveis.</em>
+OBS: Isto é apenas um protótipo para <strong>Desktop</strong>, em versões futuras vou tornar a página <strong>responsiva</strong> para <em>dispositivos móveis. (já feito, mas pretendo melhorar esse projeto mais para frente)</em>
 
 <h2>☑️ Etapas de criação:</h2>
 

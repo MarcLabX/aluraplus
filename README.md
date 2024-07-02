@@ -26,4 +26,6 @@ OBS: Isto é apenas um protótipo para <strong>Desktop</strong>, em versões fut
 
 ![image](https://github.com/MarcLabX/aluraplus/assets/174205293/3415f4a8-d97f-4b41-8d7e-956552d05bf7)
 
-O Link abaixo é para verificar o resultado final pela Vercel, lembrando que todos os arquivos do projeto estão no repositório atual:
+Os Links abaixo é para verificar o resultado final pelo GitHub Pages e pela Vercel, lembrando que todos os arquivos do projeto estão neste repositório
+
+https://marclabx.github.io/aluraplus/

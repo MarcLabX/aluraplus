@@ -248,6 +248,11 @@ body {
         margin-left: 1em;
     }
 
+    .alura__dispositivos ul li {
+        margin-left: 1.5em;
+
+    }
+
     .lista__item {
         display: flex;
         width: 50vw;
@@ -264,5 +269,9 @@ body {
 
     .descricao__footer {
         padding: 0 1em;
+    }
+
+    .aluralogo__footer {
+        margin-left: 1em;
     }
 }

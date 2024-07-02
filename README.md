@@ -28,4 +28,5 @@ OBS: Isto é apenas um protótipo para <strong>Desktop</strong>, em versões fut
 
 Os Links abaixo é para verificar o resultado final pelo GitHub Pages e pela Vercel, lembrando que todos os arquivos do projeto estão neste repositório
 
-https://marclabx.github.io/aluraplus/
+GitHub Pages: https://marclabx.github.io/aluraplus/
+Vercel: https://aluraplus-kappa-ivory-94.vercel.app/
